@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+lab/build-*/
+lab/install-*/
+lab/run/
+lab/root-*/
+lab/httpd-*.conf
